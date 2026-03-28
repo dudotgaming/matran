@@ -1,0 +1,5 @@
+{
+  "name": "Hệ thống Tạo Đề Kiểm tra Thông minh",
+  "description": "Tự động tạo ma trận, bảng đặc tả, đề kiểm tra và đáp án chuẩn theo định hướng phát triển năng lực.",
+  "requestFramePermissions": []
+}
